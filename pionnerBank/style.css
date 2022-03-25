@@ -1,0 +1,53 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background: rgb(0, 0, 0);
+}
+.bank-box{
+width: 800px;
+background-color: aqua;
+padding: 50px;
+margin: auto;
+box-shadow: 3px 3px 10px 0px rgb(202, 200, 206);
+border-radius: 5px;
+}
+.button-now{
+    width: 200px;
+}
+.deshboard{
+    width: 1400px;
+    margin: auto;
+    display: none;
+    margin-top: 100px;
+    
+   
+}
+
+.deshboard-boxme{
+
+    padding: 50px;
+    margin: auto;
+    box-shadow: 3px 3px 10px 0px rgb(202, 200, 206);
+    border-radius: 5px; 
+    background: #6c878182;
+}
+.box-style{
+    padding: 50px;
+    color: #fff;
+    border-radius: 10px;
+}
+.deposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
+.extra{
+    margin: 0px 20px;
+}
+.accountbox{
+    margin-top: 20vh;
+}
